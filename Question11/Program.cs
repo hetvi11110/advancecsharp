@@ -5,18 +5,19 @@ namespace Question11
 {
     public class Program
     {
-        public int GenerateNumber()
+        public Func<int> GenerateNumber = () =>
         {
             Random number = new Random();
             return number.Next(1, 10001);
-        }
+        };
 
-        public string PrintNumber(int randomNumber)
+        public string PrintNumber(int numGenerate)
         {
-            return $"The generated number is: {randomNumber}";
+            int number = GenerateNumber();
+            return $"The generated number is: {number}";
         }
 
-        static void Main()
+        public static void Main()
         {
             Program program = new Program();
 
