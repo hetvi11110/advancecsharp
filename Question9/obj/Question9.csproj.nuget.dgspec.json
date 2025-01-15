@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Bridging-course\\dot-net\\Advance C#\\Supun\\Exercises\\Coding_Exercise\\Question9\\Question9.csproj": {}
+    "C:\\Bridging-course\\dot-net\\Advance C#\\Supun\\Exercises\\Coding_Exercise\\advancecsharp\\Question9\\Question9.csproj": {}
   },
   "projects": {
-    "C:\\Bridging-course\\dot-net\\Advance C#\\Supun\\Exercises\\Coding_Exercise\\Question9\\Question9.csproj": {
+    "C:\\Bridging-course\\dot-net\\Advance C#\\Supun\\Exercises\\Coding_Exercise\\advancecsharp\\Question9\\Question9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Bridging-course\\dot-net\\Advance C#\\Supun\\Exercises\\Coding_Exercise\\Question9\\Question9.csproj",
+        "projectUniqueName": "C:\\Bridging-course\\dot-net\\Advance C#\\Supun\\Exercises\\Coding_Exercise\\advancecsharp\\Question9\\Question9.csproj",
         "projectName": "Question9",
-        "projectPath": "C:\\Bridging-course\\dot-net\\Advance C#\\Supun\\Exercises\\Coding_Exercise\\Question9\\Question9.csproj",
+        "projectPath": "C:\\Bridging-course\\dot-net\\Advance C#\\Supun\\Exercises\\Coding_Exercise\\advancecsharp\\Question9\\Question9.csproj",
         "packagesPath": "C:\\Users\\hetvi\\.nuget\\packages\\",
-        "outputPath": "C:\\Bridging-course\\dot-net\\Advance C#\\Supun\\Exercises\\Coding_Exercise\\Question9\\obj\\",
+        "outputPath": "C:\\Bridging-course\\dot-net\\Advance C#\\Supun\\Exercises\\Coding_Exercise\\advancecsharp\\Question9\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

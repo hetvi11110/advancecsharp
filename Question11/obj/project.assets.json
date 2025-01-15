@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Bridging-course\\dot-net\\Advance C#\\Supun\\Exercises\\Coding_Exercise\\Question11\\Question11.csproj",
+      "projectUniqueName": "C:\\Bridging-course\\dot-net\\Advance C#\\Supun\\Exercises\\Coding_Exercise\\advancecsharp\\Question11\\Question11.csproj",
       "projectName": "Question11",
-      "projectPath": "C:\\Bridging-course\\dot-net\\Advance C#\\Supun\\Exercises\\Coding_Exercise\\Question11\\Question11.csproj",
+      "projectPath": "C:\\Bridging-course\\dot-net\\Advance C#\\Supun\\Exercises\\Coding_Exercise\\advancecsharp\\Question11\\Question11.csproj",
       "packagesPath": "C:\\Users\\hetvi\\.nuget\\packages\\",
-      "outputPath": "C:\\Bridging-course\\dot-net\\Advance C#\\Supun\\Exercises\\Coding_Exercise\\Question11\\obj\\",
+      "outputPath": "C:\\Bridging-course\\dot-net\\Advance C#\\Supun\\Exercises\\Coding_Exercise\\advancecsharp\\Question11\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
