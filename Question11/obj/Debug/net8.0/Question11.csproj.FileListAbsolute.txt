@@ -1,0 +1,14 @@
+C:\Bridging-course\dot-net\Advance C#\Supun\Exercises\Coding_Exercise\Question11\obj\Debug\net8.0\Question11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bridging-course\dot-net\Advance C#\Supun\Exercises\Coding_Exercise\Question11\obj\Debug\net8.0\Question11.AssemblyInfoInputs.cache
+C:\Bridging-course\dot-net\Advance C#\Supun\Exercises\Coding_Exercise\Question11\obj\Debug\net8.0\Question11.AssemblyInfo.cs
+C:\Bridging-course\dot-net\Advance C#\Supun\Exercises\Coding_Exercise\Question11\obj\Debug\net8.0\Question11.csproj.CoreCompileInputs.cache
+C:\Bridging-course\dot-net\Advance C#\Supun\Exercises\Coding_Exercise\Question11\bin\Debug\net8.0\Question11.exe
+C:\Bridging-course\dot-net\Advance C#\Supun\Exercises\Coding_Exercise\Question11\bin\Debug\net8.0\Question11.deps.json
+C:\Bridging-course\dot-net\Advance C#\Supun\Exercises\Coding_Exercise\Question11\bin\Debug\net8.0\Question11.runtimeconfig.json
+C:\Bridging-course\dot-net\Advance C#\Supun\Exercises\Coding_Exercise\Question11\bin\Debug\net8.0\Question11.dll
+C:\Bridging-course\dot-net\Advance C#\Supun\Exercises\Coding_Exercise\Question11\bin\Debug\net8.0\Question11.pdb
+C:\Bridging-course\dot-net\Advance C#\Supun\Exercises\Coding_Exercise\Question11\obj\Debug\net8.0\Question11.dll
+C:\Bridging-course\dot-net\Advance C#\Supun\Exercises\Coding_Exercise\Question11\obj\Debug\net8.0\refint\Question11.dll
+C:\Bridging-course\dot-net\Advance C#\Supun\Exercises\Coding_Exercise\Question11\obj\Debug\net8.0\Question11.pdb
+C:\Bridging-course\dot-net\Advance C#\Supun\Exercises\Coding_Exercise\Question11\obj\Debug\net8.0\Question11.genruntimeconfig.cache
+C:\Bridging-course\dot-net\Advance C#\Supun\Exercises\Coding_Exercise\Question11\obj\Debug\net8.0\ref\Question11.dll
